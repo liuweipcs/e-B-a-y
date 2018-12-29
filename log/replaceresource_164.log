@@ -1,0 +1,413 @@
+=====================================
+startTime:2018-02-07 02:48:42
+查询数据个数：30
+----------------------------------
+ID:270414 ItemID:282807570756
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:270664 ItemID:222794066399
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+多属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:270914 ItemID:183015633352
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:271164 ItemID:273025808351
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+多属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:271414 ItemID:292409114395
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Warning
+----------------------------------
+ID:271664 ItemID:122914742209
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+https://images.yibainetwork.com//upload/image/assistant/QC03556/QC03556-1.jpg资源下载不成功。第1层。
+https://images.yibainetwork.com//upload/image/assistant/QC03556/QC03556-1.jpg资源下载不成功。第1层。
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:271914 ItemID:362213776927
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:272164 ItemID:162853248641
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:272414 ItemID:202188727305
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:272664 ItemID:122915041886
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:272914 ItemID:312046073081
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:273164 ItemID:382346523795
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+多属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:273414 ItemID:152866924963
+getItem HK ACK:Success
+----------------------------------
+ID:273664 ItemID:173100606903
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:273914 ItemID:292410385150
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:274164 ItemID:122916530724
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:274414 ItemID:112757688541
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Warning
+----------------------------------
+ID:274664 ItemID:292410520383
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+多属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:274914 ItemID:162854691406
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+多属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:275164 ItemID:232632265472
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:275414 ItemID:352256342522
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:275664 ItemID:263439790594
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:275914 ItemID:152868261890
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:276164 ItemID:292410778989
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+多属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Warning
+----------------------------------
+ID:276414 ItemID:302604544747
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:276664 ItemID:332522618231
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:276914 ItemID:162855947289
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:277164 ItemID:372197106124
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+多属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:277414 ItemID:122918529690
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+----------------------------------
+ID:277664 ItemID:302605562506
+getItem HK ACK:Success
+getItem api ACK:Success
+getItem api listingStatus:Active
+new TradingAPI():Revise
+组装主SKU图片
+下载描述资源
+单属性
+发送Revise api
+发送Revise HK ack:Success
+发送Revise api ack:Success
+=====================================
+startTime:2018-02-07 02:58:31
+查询数据个数：0
+=====================================
+startTime:2018-02-07 03:08:31
+查询数据个数：0
+=====================================
+startTime:2018-02-07 03:18:31
+查询数据个数：0
+=====================================
+startTime:2018-02-07 03:38:30
+查询数据个数：0
+=====================================
+startTime:2018-02-07 08:58:30
+查询数据个数：0
+=====================================
+startTime:2018-02-07 09:08:30
+查询数据个数：0
+=====================================
+startTime:2018-02-07 09:18:30
+查询数据个数：1
+----------------------------------
+ID:273414 ItemID:152866924963
+getItem HK ACK:Success
+=====================================
+startTime:2018-02-07 09:28:30
+查询数据个数：0
+=====================================
+startTime:2018-02-07 09:38:31
+查询数据个数：0
+=====================================
+startTime:2018-02-07 09:52:25
+查询数据个数：0
+=====================================
+startTime:2018-02-07 10:08:30
+查询数据个数：0
+=====================================
+startTime:2018-02-07 10:18:31
+查询数据个数：0
+=====================================
+startTime:2018-02-07 10:28:30
+查询数据个数：1
+----------------------------------
+ID:273414 ItemID:152866924963
+getItem HK ACK:Success
+=====================================
+startTime:2018-02-07 10:38:30
+查询数据个数：0
+=====================================
+startTime:2018-02-07 10:48:30
+查询数据个数：0
+=====================================
+startTime:2018-02-07 11:08:31
+查询数据个数：0
+=====================================
+startTime:2018-02-07 11:18:30
+查询数据个数：0

@@ -1,0 +1,137 @@
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/r9AAAOSwTmtZ7Znl/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/r9AAAOSwTmtZ7Znl/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/-FMAAOSwPpZaIQoz/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/-FMAAOSwPpZaIQoz/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/uR4AAOSwAaJaDPSF/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/5cYAAOSwmphaDPoR/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/WNAAAOSwTEJaDoTq/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/7qwAAOSw1cNaHANo/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/ckcAAOSwQS1aH2z-/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/EbYAAOSwO7haF4og/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAzM1gxMDAw/z/jI0AAOSwI59aHMxp/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/uAkAAOSw1QpaFjzB/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/crYAAOSw-olaHhZg/$_12.JPG
+ReplaceThirdResourceReplaceThirdResource::handleLink2。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/5rgAAOSwlptaHi5a/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted. The SQL statement executed was: SELECT * FROM `ueb_third_resource` `t` WHERE source_url=:source_url LIMIT 1。Link:https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/nX0AAOSw4A5YrU6l/$_1.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTEyNlgxMTI2/z/5-IAAOSwCU1Yvoze/$_1.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/NZUAAOSwdGFY0Oey/$_1.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/ODAwWDgwMA==/z/fg8AAOSwY7tacsLe/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/o28AAOSwAhtZ4DOK/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/AKUAAOSwYc5aDqXQ/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/IowAAOSwSeVaJgTT/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/AvUAAOSwdnZaJlKo/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/XWwAAOSw1NFaLkbe/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/Q6EAAOSwk-1aRJ5U/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/t2YAAOSwUMxaQzcQ/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/cwkAAOSwH-daRGx8/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/aP8AAOSwY~laTFQe/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/SQkAAOSw0W5aTZPS/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/Fn4AAOSw3q5aVzib/$_12.JPG
+https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/Q58AAOSws0JaWW1A/$_12.JPG资源文件推送美国服务器不成功，推送response为空。第2层。
+https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/l9UAAOSwTm9Z8ZAl/$_12.JPG资源文件推送美国服务器不成功，推送response为空。第2层。
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted. The SQL statement executed was: INSERT INTO `ueb_third_resource` (`source_url`, `destination_path`, `create_time`) VALUES (:yp0, :yp1, :yp2)。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/KfYAAOSwevlaOcw0/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/4tMAAOSw~oFZy1X~/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/KfYAAOSwevlaOcw0/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/4tMAAOSw~oFZy1X~/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[70100]: <<Unknown error>>: 1317 Query execution was interrupted. The SQL statement executed was: INSERT INTO `ueb_third_resource` (`source_url`, `destination_path`, `create_time`) VALUES (:yp0, :yp1, :yp2)。Link:https://i.ebayimg.com/00/s/MTEwMFgxMTAw/z/IQIAAOSwLs9aWF0X/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: INSERT INTO `ueb_third_resource` (`source_url`, `destination_path`, `create_time`) VALUES (:yp0, :yp1, :yp2)。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/jSUAAOSwmudaJ9Ki/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/ajQAAOSwpvZaL7nL/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/VqIAAOSwEOpaRMMS/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/yi0AAOSwfpBac8A6/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/YJAAAOSwjUhaTgvm/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/9gQAAOSwFO5aBAc1/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/NGEAAOSwWZpaACol/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/ep0AAOSw~kJac716/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/jSUAAOSwmudaJ9Ki/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/ajQAAOSwpvZaL7nL/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/VqIAAOSwEOpaRMMS/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/yi0AAOSwfpBac8A6/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: SELECT *
+FROM `ueb_auth_assignment`
+WHERE userid=:userid。Link:https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/YJAAAOSwjUhaTgvm/$_12.JPG
+ReplaceThirdResource报错。第2层。错误:CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away. The SQL statement executed was: INSERT INTO `ueb_third_resource` (`source_url`, `destination_path`, `create_time`) VALUES (:yp0, :yp1, :yp2)。Link:https://i.ebayimg.com/00/s/NzIxWDcyMQ==/z/awYAAOSwkvFaWXnG/$_12.PNG
+https://images.yibainetwork.com//upload/image/assistant/XD02712/XD02712-5.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/XD02712/XD02712-5.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/XD02712/XD02712-7.jpg资源下载不成功。第2层。
+https://i.ebayimg.com/00/s/NzAwWDcwMA==/z/FaAAAMXQzr1R4OGo/$\(KGrHqR,!mIFH\(6J7wRiBR4OGoh60w~~60_1.JPG资源内容为空。第2层。
+https://images.yibainetwork.com//upload/image/assistant/GS02950/GS02950-12.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/GS02950/GS02950-12.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/GS02937/GS02937-7.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/GS02937/GS02937-7.jpg资源下载不成功。第2层。
+https://i.ebayimg.com/00/s/NzAwWDcwMA==/z/FaAAAMXQzr1R4OGo/$\(KGrHqR,!mIFH\(6J7wRiBR4OGoh60w~~60_1.JPG资源内容为空。第2层。
+https://images.yibainetwork.com//upload/image/assistant/GS02937/GS02937-1.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/QC03556/QC03556-1.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/QC03556/QC03556-1.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/XD02759/XD02759-7.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/XD02759/XD02759-7.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/XD02753/XD02753-7.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/XD02753/XD02753-7.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/XD02753/XD02753-7.jpg资源下载不成功。第2层。
+https://images.yibainetwork.com//upload/image/assistant/XD02753/XD02753-7.jpg资源下载不成功。第2层。
+https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/FYAAAMXQfj9SMrMJ/$\(KGrHqV,!qcFIhtQs-igBSMrMJdqsQ~~60_1.JPG资源内容为空。第2层。
+https://images.yibainetwork.com//upload/image/assistant/TJA03128/TJA03128-12.jpg资源下载不成功。第2层。
+https://i.ebayimg.com/00/s/NjAwWDYwMA==/z/FYAAAMXQfj9SMrMJ/$\(KGrHqV,!qcFIhtQs-igBSMrMJdqsQ~~60_1.JPG资源内容为空。第2层。
+https://images.yibainetwork.com//upload/image/assistant/TJA03128/TJA03128-12.jpg资源下载不成功。第2层。
+https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/SqkAAOSwndZaXHg3/$_1.JPG资源文件推送美国服务器不成功，推送response为空。第2层。
+https://images.yibainetwork.com//upload/image/assistant/TJA03128/TJA03128-12.jpg资源下载不成功。第2层。
+https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/UO8AAOSwlMFZFRww/$_57.JPG资源文件推送美国服务器不成功，推送response为空。第2层。
+https://s3-ap-southeast-1.amazonaws.com/a2.datacaciques.com/00/tmp/Nw/d5ca215e2f604dd1/3ad71972986489e8.JPG资源文件推送美国服务器不成功，推送response为空。第1层。
+https://i.ebayimg.com/00/s/OTc5WDEwMDA=/z/3QQAAOSw~kJaeZEc/$_12.JPG资源文件推送美国服务器不成功，推送response为空。第2层。
+https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/rgAAAOSwXtNaYDfz/$_12.JPG资源文件推送美国服务器不成功，ack:，error:第2层。
+https://i.ebayimg.com/00/s/MTAwMVgxMDAx/z/-kYAAOSwiYlaKl2g/$_12.JPG资源文件推送美国服务器不成功，ack:，error:第2层。

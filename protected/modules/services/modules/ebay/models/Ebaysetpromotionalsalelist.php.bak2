@@ -1,0 +1,117 @@
+<?php
+
+class Ebaysetpromotionalsalelist extends EbayApiAbstract {
+    
+    public $token ;
+    public $sendxml;
+    public $siteid;
+    
+    public function setToken($token) {
+        $this->token = $token;
+    }
+    
+    public function setsendxml($sendxml) {
+        $this->sendxml = $sendxml;
+    }
+    
+    public function setsite($siteid) {
+        $this->siteid = $siteid;
+    }
+    
+    
+    public function setRequest()
+    {
+        $this->setUserToken($this->token);
+        $ebayKeys = ConfigFactory::getConfig('ebayKeys');
+    
+        $this->appID = $ebayKeys['appID'];
+        $this->devID = $ebayKeys['devID'];
+        $this->certID = $ebayKeys['certID'];
+        $this->serverUrl = $ebayKeys['serverUrl'];
+        $this->siteID = $this->siteid;
+        $this->compatabilityLevel = 983;
+        return $this;
+    }
+    
+    public function requestXmlBody()
+    {
+        return $this->sendxml;
+    }
+    
+    
+    public function setebaydiscount() {
+        return $this->setRequest()
+            ->setVerb('SetPromotionalSaleListings')
+//            ->setSiteId($this->siteid)
+            ->sendHttpRequest()
+            ->handleResponse()
+        ;
+    }
+    
+    
+    protected function handleResponse($longMessage = ''){
+        
+        $return =  array('Ack'=>'Failure');
+        switch($this->response->Ack)
+        {
+            case 'Success':
+                $return['Ack'] = 'Success';
+                break;
+            case 'Warning':
+                $return['Ack'] = 'Warning';
+                break;
+            case 'Failure':
+                $return['Ack'] = 'Failure';
+                break;
+        }
+
+    
+        return $this->response;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  /*  
+    
+    public function setpromotionalsalelist($param, $short_name) {
+        $objApi = new Ebaysetpromotionalsalelistapi();
+        $objApi->setParam($param);
+        $response = $objApi->setShortName($short_name)
+                    ->setVerb('SetPromotionalSaleListings')
+                    ->setRequest()
+                    ->sendHttpRequest()
+                    ->getResponse();
+        
+//        echo "<pre>";var_dump($response);exit();
+        $result = $this->analysisresponse($response);
+        
+        return $result;
+    }
+    
+    
+    protected function analysisresponse($data) {
+        $ack = isset($data->Ack)?$data->Ack:'Failure';
+    
+        if($ack == 'Failure') {
+            $msg = '';
+            $errors = $data->Errors;
+            foreach($errors as $err) {
+                $msg .= isset($err->LongMessage)?$err->LongMessage:$err['0']->LongMessage."<br/>";
+            }
+    
+            return array('status'=>'500', 'msg'=>$msg);
+        } else {
+            return array('status'=>'200');
+        }
+    
+    }
+    */
+    
+}

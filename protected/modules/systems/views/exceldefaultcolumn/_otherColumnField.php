@@ -1,0 +1,1 @@
+ <?php echo CHtml::dropDownList('otherColumnField['.$index.'][]', '', MHelper::getColumnsPairsByTableName($tableName)); ?>

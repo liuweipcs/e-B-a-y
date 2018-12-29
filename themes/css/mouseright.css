@@ -1,0 +1,4 @@
+/* mouse_right_menu */
+#mouse_right_menu li a{font-size:13px;background-color: transparent;border: 1px solid #fff;color: #000;display: block; margin: 0;padding:3px;text-align: left;}
+#mouse_right_menu li a:hover{text-decoration:none;background-color: #b6bdd2;border: 1px solid #0a246a;}
+#mouse_right_menu li.disabled {color: #666;}
